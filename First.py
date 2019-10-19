@@ -1,0 +1,8 @@
+f=open("abc.txt",'w')
+f.write("hai\n")
+f.write("how\n")
+f.write("are\n")
+f.write("you\n")
+f=open("abc.txt",'r')
+data=f.read(5)
+print(data)
