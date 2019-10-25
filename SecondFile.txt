@@ -1,3 +1,0 @@
-First commit here, added first line.
-second commit here, added 2nd line.
-third commit here, added 3rd line.
